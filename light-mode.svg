@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="450px" fill="#f6f8fa" rx="25"/>
+<text x="25" y="30" fill="#24292f" class="ascii">
+<tspan x="25" y="50">       AAAAAAAAA   AAAAAAAAA       </tspan>
+<tspan x="25" y="70">       AAAAAAAAAA AAAAAAAAAA       </tspan>
+<tspan x="25" y="90">       AAAAAAAAAAAAAAAAAAAAA       </tspan>
+<tspan x="25" y="110">       AAAAA AAAAAAAAAAAAAAA       </tspan>
+<tspan x="25" y="130">AAAAAAAAAAAA AAAAAAAAA AAAAAAAAAAAA</tspan>
+<tspan x="25" y="150">AAAAAAAAAAAA  AAAAAAA  AAAAAAAAAAAA</tspan>
+<tspan x="25" y="170">AAAAAAAAAAA    AAAAA    AAAAAAAAAAA</tspan>
+<tspan x="25" y="190">AAAAAAAAAA               AAAAAAAAAA</tspan>
+<tspan x="25" y="210">AAAAAAAAAAAA           AAAAAAAAAAAA</tspan>
+<tspan x="25" y="230">    AAAAAAAA           AAAAAAAA    </tspan>
+<tspan x="25" y="250">AAAAAAAAAAAA           AAAAAAAAAAAA</tspan>
+<tspan x="25" y="270">AAAAAAAAAA               AAAAAAAAAA</tspan>
+<tspan x="25" y="290">AAAAAAAAAAA    AAAAA    AAAAAAAAAAA</tspan>
+<tspan x="25" y="310">AAAAAAAAAAAA  AAAAAAA  AAAAAAAAAAAA</tspan>
+<tspan x="25" y="330">AAAAAAAAAAAA AAAAAAAAA AAAAAAAAAAAA</tspan>
+<tspan x="25" y="350">       AAAAA AAAAAAAAAAAAAAA       </tspan>
+<tspan x="25" y="370">       AAAAAAAAAAAAAAAAAAAAA       </tspan>
+<tspan x="25" y="390">       AAAAAAAAAA AAAAAAAAAA       </tspan>
+<tspan x="25" y="410">       AAAAAAAAA   AAAAAAAAA       </tspan>
+<tspan x="25" y="430"></tspan>
+<tspan x="25" y="450"></tspan>
+<tspan x="25" y="470"></tspan>
+<tspan x="25" y="490"></tspan>
+<tspan x="25" y="510"></tspan>
+<tspan x="25" y="530"></tspan>
+</text>
+<text x="390" y="40" fill="#24292f">
+<tspan x="390" y="50">@jokur-js</tspan> ——————————————————————————————————————————————————
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 10</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ......................................... </tspan><tspan class="value" id="age_data">19 years</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">3RR0R</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Description</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">UI/UX Designer, Front-end Developer</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">VSCode 1.98.0</tspan>
+<tspan x="390" y="190">- Tools</tspan> ————————————————————————————————————————————————————
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Tech</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">HTML5, CSS3, JavaScript, Git</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Programs</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Figma, Illustrator, Photoshop</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Polish, English, German</tspan>
+<tspan x="390" y="290">- Contact</tspan> ——————————————————————————————————————————————————
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">treqbusiness@gmail.com</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">dzxkr</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Jokur0x</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">0xJokur</tspan></text>
+</svg>
